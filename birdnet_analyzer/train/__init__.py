@@ -44,4 +44,9 @@ def main():
     cfg.AUTOTUNE_EXECUTIONS_PER_TRIAL = args.autotune_executions_per_trial
 
     # Train model
-    train_model()
+    # train_model()
+    def print_epoch_logs(epoch, logs):
+        print(f"[Epoch {epoch+1}] loss: {logs['loss']:.4f}, val_loss: {logs['val_loss']:.4f}, "
+            f"val_AUPRC: {logs['val_AUPRC']:.4f}, val_AUROC: {logs['val_AUROC']:.4f}", flush=True)
+
+    train_model(on_epoch_end=print_epoch_logs)

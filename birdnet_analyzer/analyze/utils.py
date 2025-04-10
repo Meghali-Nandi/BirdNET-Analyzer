@@ -234,7 +234,10 @@ def save_result_files(r: dict[str, list], result_files: dict[str, str], afile_pa
     Returns:
         None
     """
-
+    
+    result_files['csv'] = 'birdnet_analyzer/example/results.csv'
+    cfg.RESULT_TYPES = "{csv}"
+    print(cfg.RESULT_TYPES, result_files)
     os.makedirs(cfg.OUTPUT_PATH, exist_ok=True)
     
     # Merge consecutive detections of the same species
@@ -593,6 +596,7 @@ def analyze_file(item):
         Exception: If there is an error in reading the audio file or saving the results.
     """
     # Get file path and restore cfg
+    print(item[0])
     fpath: str = item[0]
     cfg.set_config(item[1])
 
@@ -652,11 +656,13 @@ def analyze_file(item):
 
                     # Get prediction
                     pred = p[i]
+                    num_classes = len(pred)
+                    labels = cfg.LABELS[:num_classes]
 
                     # Assign scores to labels
                     p_labels = [
                         p
-                        for p in zip(cfg.LABELS, pred, strict=True)
+                        for p in zip(labels, pred)
                         if (cfg.TOP_N or p[1] >= cfg.MIN_CONFIDENCE)
                         and (not cfg.SPECIES_LIST or p[0] in cfg.SPECIES_LIST)
                     ]
@@ -678,6 +684,8 @@ def analyze_file(item):
 
     except Exception as ex:
         # Write error log
+        print("Analyze utils")
+        print(ex)
         print(f"Error: Cannot analyze audio file {fpath}.\n", flush=True)
         utils.write_error_log(ex)
 

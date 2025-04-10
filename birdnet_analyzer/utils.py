@@ -269,23 +269,24 @@ def save_params(file_path, headers, values):
     """
     import csv
 
-    with open(file_path, "w", newline="") as paramsfile:
+    with open(file_path, "a", newline="") as paramsfile:
         paramswriter = csv.writer(paramsfile)
         paramswriter.writerow(headers)
         paramswriter.writerow(values)
 
 
 def save_result_file(result_path: str, out_string: str):
-    """Saves the result to a file.
+    """Appends the result to a file.
 
     Args:
         result_path: The path to the result file.
         out_string: The string to be written to the file.
     """
-
+    print(result_path)
     # Make directory if it doesn't exist
     os.makedirs(os.path.dirname(result_path), exist_ok=True)
 
-    # Write the result to the file
-    with open(result_path, "w", encoding="utf-8") as rfile:
-        rfile.write(out_string)
+    # Append the result to the file
+    with open(result_path, "a", encoding="utf-8") as rfile:  # 'a' mode for append
+        rfile.write(out_string + "\n")  # Optionally, add a newline after each string
+

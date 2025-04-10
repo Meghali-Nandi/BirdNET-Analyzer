@@ -488,7 +488,7 @@ def build_review_tab():
             inputs=review_state,
             outputs=review_btn_output,
             show_progress=True,
-            show_progress_on=review_audio
+            
         )
 
         negative_btn.click(
@@ -496,7 +496,7 @@ def build_review_tab():
             inputs=review_state,
             outputs=review_btn_output,
             show_progress=True,
-            show_progress_on=review_audio
+            
         )
 
         skip_btn.click(
@@ -504,7 +504,7 @@ def build_review_tab():
             inputs=review_state,
             outputs=review_btn_output,
             show_progress=True,
-            show_progress_on=review_audio
+            
         )
 
         undo_btn.click(
@@ -512,7 +512,7 @@ def build_review_tab():
             inputs=review_state,
             outputs=review_btn_output,
             show_progress=True,
-            show_progress_on=review_audio
+            
         )
 
         select_directory_btn.click(

@@ -1,0 +1,665 @@
+Abbott's Booby
+Albert's Lyrebird
+Alexandrine Parakeet
+Apostlebird
+Arafura Fantail
+Arafura Shrikethrush
+Arctic Warbler
+Ashy-bellied White-eye
+Atherton Scrubwren
+Australasian Bittern
+Australasian Darter
+Australasian Figbird
+Australasian Gannet
+Australasian Grebe
+Australasian Shoveler
+Australasian Swamphen
+Australian Boobook
+Australian Brushturkey
+Australian Bustard
+Australian Crake
+Australian Golden Whistler
+Australian Hobby
+Australian King Parrot
+Australian Logrunner
+Australian Magpie
+Australian Masked Owl
+Australian Owlet-nightjar
+Australian Pelican
+Australian Pied Cormorant
+Australian Pipit
+Australian Pratincole
+Australian Raven
+Australian Reed Warbler
+Australian Ringneck
+Australian Shelduck
+Australian Swiftlet
+Australian Tern
+Australian White Ibis
+Azure Kingfisher
+Baillon's Crake
+Banded Honeyeater
+Banded Lapwing
+Banded Stilt
+Banded Whiteface
+Bar-breasted Honeyeater
+Bar-shouldered Dove
+Bar-tailed Godwit
+Barking Owl
+Barred Cuckooshrike
+Bassian Thrush
+Baudin's Black Cockatoo
+Beach Stone-curlew
+Beautiful Firetail
+Bell Miner
+Black Bittern
+Black Butcherbird
+Black Currawong
+Black Falcon
+Black Grasswren
+Black Honeyeater
+Black Kite
+Black Noddy
+Black Swan
+Black-backed Bittern
+Black-backed Butcherbird
+Black-banded Fruit Dove
+Black-breasted Buttonquail
+Black-breasted Buzzard
+Black-chinned Honeyeater
+Black-eared Catbird
+Black-eared Cuckoo
+Black-eared Miner
+Black-faced Cormorant
+Black-faced Cuckooshrike
+Black-faced Monarch
+Black-faced Woodswallow
+Black-fronted Dotterel
+Black-headed Honeyeater
+Black-naped Tern
+Black-shouldered Kite
+Black-tailed Godwit
+Black-tailed Nativehen
+Black-tailed Treecreeper
+Black-throated Finch
+Black-throated Whipbird
+Black-winged Monarch
+Black-winged Petrel
+Black-winged Stilt
+Blue-billed Duck
+Blue-breasted Fairywren
+Blue-faced Honeyeater
+Blue-faced Parrotfinch
+Blue-winged Kookaburra
+Blue-winged Parrot
+Bourke's Parrot
+Bower's Shrikethrush
+Brahminy Kite
+Bridled Honeyeater
+Bridled Tern
+Broad-billed Flycatcher
+Brolga
+Brown Booby
+Brown Cuckoo-Dove
+Brown Falcon
+Brown Gerygone
+Brown Goshawk
+Brown Honeyeater
+Brown Noddy
+Brown Quail
+Brown Skua
+Brown Songlark
+Brown Thornbill
+Brown Treecreeper
+Brown-backed Honeyeater
+Brown-headed Honeyeater
+Brown-streaked Flycatcher
+Brush Bronzewing
+Brush Cuckoo
+Budgerigar
+Buff-banded Rail
+Buff-breasted Paradise Kingfisher
+Buff-rumped Thornbill
+Buff-sided Robin
+Bush Stone-curlew
+Canary White-eye
+Cape Barren Goose
+Carnaby's Black Cockatoo
+Carpentarian Grasswren
+Caspian Tern
+Channel-billed Cuckoo
+Chestnut Quail-thrush
+Chestnut Rail
+Chestnut Teal
+Chestnut-backed Buttonquail
+Chestnut-breasted Cuckoo
+Chestnut-breasted Mannikin
+Chestnut-breasted Quail-thrush
+Chestnut-breasted Whiteface
+Chestnut-crowned Babbler
+Chestnut-rumped Heathwren
+Chestnut-rumped Thornbill
+Chiming Wedgebill
+Chirruping Wedgebill
+Chowchilla
+Christmas Boobook
+Christmas Frigatebird
+Christmas Imperial Pigeon
+Christmas White-eye
+Cinnamon Quail-thrush
+Cockatiel
+Collared Kingfisher
+Collared Sparrowhawk
+Comb-crested Jacana
+Common Blackbird
+Common Bronzewing
+Common Cicadabird
+Common Greenshank
+Common Myna
+Common Sandpiper
+Common Starling
+Common Tern
+Copperback Quail-thrush
+Cotton Pygmy Goose
+Crescent Honeyeater
+Crested Bellbird
+Crested Pigeon
+Crested Shriketit
+Crimson Chat
+Crimson Finch
+Crimson Rosella
+Cryptic Honeyeater
+Curlew Sandpiper
+Diamond Dove
+Diamond Firetail
+Double-banded Plover
+Double-barred Finch
+Double-eyed Fig Parrot
+Dusky Gerygone
+Dusky Grasswren
+Dusky Moorhen
+Dusky Myzomela
+Dusky Robin
+Dusky Woodswallow
+Eastern Barn Owl
+Eastern Bluebonnet
+Eastern Bristlebird
+Eastern Cattle Egret
+Eastern Grass Owl
+Eastern Ground Parrot
+Eastern Osprey
+Eastern Rosella
+Eastern Spinebill
+Eastern Whipbird
+Eastern Yellow Robin
+Eastern Yellow Wagtail
+Eclectus Parrot
+Elegant Parrot
+Emu
+Eungella Honeyeater
+Eurasian Coot
+Eurasian Skylark
+Eurasian Tree Sparrow
+Eurasian Whimbrel
+European Goldfinch
+European Greenfinch
+Eyrean Grasswren
+Fairy Gerygone
+Fairy Martin
+Fairy Prion
+Fairy Tern
+Fan-tailed Cuckoo
+Far Eastern Curlew
+Fawn-breasted Bowerbird
+Fernwren
+Flame Robin
+Flesh-footed Shearwater
+Forest Kingfisher
+Forest Raven
+Forty-spotted Pardalote
+Freckled Duck
+Frill-necked Monarch
+Fuscous Honeyeater
+Galah
+Gang-gang Cockatoo
+Gilbert's Honeyeater
+Gilbert's Whistler
+Glossy Black Cockatoo
+Glossy Ibis
+Golden Bowerbird
+Golden-headed Cisticola
+Golden-shouldered Parrot
+Gould's Petrel
+Gouldian Finch
+Graceful Honeyeater
+Great Bowerbird
+Great Cormorant
+Great Crested Grebe
+Great Egret
+Great-billed Heron
+Greater Crested Tern
+Greater Sooty Owl
+Green Catbird
+Green Oriole
+Green Pygmy Goose
+Green Rosella
+Green-backed Gerygone
+Green-backed Honeyeater
+Grey Butcherbird
+Grey Currawong
+Grey Falcon
+Grey Fantail
+Grey Goshawk
+Grey Grasswren
+Grey Honeyeater
+Grey Noddy
+Grey Plover
+Grey Shrikethrush
+Grey Teal
+Grey Whistler
+Grey-crowned Babbler
+Grey-fronted Honeyeater
+Grey-headed Honeyeater
+Grey-headed Robin
+Grey-tailed Tattler
+Ground Cuckooshrike
+Hall's Babbler
+Hardhead
+Helmeted Friarbird
+Helmeted Guineafowl
+Hoary-headed Grebe
+Hooded Dotterel
+Hooded Parrot
+Hooded Robin
+Hornbill Friarbird
+Horsfield's Bronze Cuckoo
+Horsfield's Bush Lark
+House Sparrow
+Identity unknown
+Indian Yellow-nosed Albatross
+Inland Dotterel
+Inland Thornbill
+Intermediate Egret
+Island Thrush
+Jacky Winter
+Kalkadoon Grasswren
+Kamchatka Leaf Warbler
+Kelp Gull
+Kimberley Honeyeater
+King Penguin
+King Quail
+Large-billed Gerygone
+Large-billed Scrubwren
+Large-tailed Nightjar
+Latham's Snipe
+Laughing Dove
+Laughing Kookaburra
+Leaden Flycatcher
+Lemon-bellied Flyrobin
+Lesser Crested Tern
+Lesser Noddy
+Lesser Sand Plover
+Lesser Sooty Owl
+Letter-winged Kite
+Lewin's Honeyeater
+Lewin's Rail
+Little Black Cormorant
+Little Bronze Cuckoo
+Little Buttonquail
+Little Corella
+Little Crow
+Little Curlew
+Little Eagle
+Little Egret
+Little Friarbird
+Little Grassbird
+Little Kingfisher
+Little Lorikeet
+Little Penguin
+Little Pied Cormorant
+Little Raven
+Little Tern
+Little Wattlebird
+Little Woodswallow
+Long-billed Corella
+Long-tailed Finch
+Lord Howe Woodhen
+Lovely Fairywren
+Macleay's Honeyeater
+Magnificent Riflebird
+Magpie Goose
+Magpie-lark
+Major Mitchell's Cockatoo
+Mallard
+Mallee Emu-wren
+Malleefowl
+Maned Duck
+Mangrove Fantail
+Mangrove Gerygone
+Mangrove Golden Whistler
+Mangrove Honeyeater
+Mangrove Robin
+Marbled Frogmouth
+Marsh Sandpiper
+Masked Booby
+Masked Finch
+Masked Lapwing
+Masked Woodswallow
+Metallic Starling
+Mistletoebird
+Morepork
+Mountain Thornbill
+Mulga Parrot
+Musk Duck
+Musk Lorikeet
+Nankeen Kestrel
+Nankeen Night Heron
+Naretha Bluebonnet
+New Holland Honeyeater
+Night Parrot
+Noisy Friarbird
+Noisy Miner
+Noisy Pitta
+Noisy Scrubbird
+Nordmann's Greenshank
+Norfolk Gerygone
+Norfolk Parakeet
+Norfolk Robin
+Northern Fantail
+Northern Rosella
+Northern Scrub Robin
+Nullarbor Quail-thrush
+Olive Whistler
+Olive-backed Oriole
+Olive-backed Sunbird
+Opalton Grasswren
+Orange Chat
+Orange-bellied Parrot
+Orange-footed Scrubfowl
+Oriental Dollarbird
+Oriental Plover
+Pacific Baza
+Pacific Black Duck
+Pacific Emerald Dove
+Pacific Gull
+Pacific Koel
+Pacific Swift
+Painted Buttonquail
+Painted Finch
+Painted Honeyeater
+Pale-headed Rosella
+Pale-vented Bush-hen
+Pale-yellow Robin
+Pallid Cuckoo
+Palm Cockatoo
+Paperbark Flycatcher
+Papuan Frogmouth
+Papuan Pitta
+Paradise Riflebird
+Partridge Pigeon
+Peaceful Dove
+Peregrine Falcon
+Pheasant Coucal
+Pictorella Mannikin
+Pied Butcherbird
+Pied Currawong
+Pied Heron
+Pied Honeyeater
+Pied Monarch
+Pied Oystercatcher
+Pied Stilt
+Pilotbird
+Pink Robin
+Pink-eared Duck
+Plains-wanderer
+Plum-headed Finch
+Plumed Whistling Duck
+Pomarine Jaeger
+Powerful Owl
+Princess Parrot
+Providence Petrel
+Purple-backed Fairywren
+Purple-crowned Fairywren
+Purple-crowned Lorikeet
+Purple-gaped Honeyeater
+Rainbow Bee-eater
+Rainbow Lorikeet
+Rainbow Pitta
+Raja Shelduck
+Red Goshawk
+Red Wattlebird
+Red-backed Buttonquail
+Red-backed Fairywren
+Red-backed Kingfisher
+Red-browed Finch
+Red-browed Pardalote
+Red-browed Treecreeper
+Red-capped Parrot
+Red-capped Plover
+Red-capped Robin
+Red-cheeked Parrot
+Red-chested Buttonquail
+Red-collared Lorikeet
+Red-eared Firetail
+Red-footed Booby
+Red-headed Myzomela
+Red-kneed Dotterel
+Red-lored Whistler
+Red-necked Avocet
+Red-necked Crake
+Red-necked Stint
+Red-rumped Parrot
+Red-rumped Swallow
+Red-tailed Black Cockatoo
+Red-tailed Tropicbird
+Red-whiskered Bulbul
+Red-winged Fairywren
+Red-winged Parrot
+Redthroat
+Regent Bowerbird
+Regent Honeyeater
+Regent Parrot
+Restless Flycatcher
+Rock Parrot
+Rockwarbler
+Rose Robin
+Rose-crowned Fruit Dove
+Rose-ringed Parakeet
+Royal Penguin
+Royal Spoonbill
+Ruddy Turnstone
+Rufous Bristlebird
+Rufous Fantail
+Rufous Fieldwren
+Rufous Grasswren
+Rufous Owl
+Rufous Scrubbird
+Rufous Shrikethrush
+Rufous Songlark
+Rufous Treecreeper
+Rufous Whistler
+Rufous-banded Honeyeater
+Rufous-crowned Emu-wren
+Rufous-throated Honeyeater
+Russet-tailed Thrush
+Sacred Kingfisher
+Sanderling
+Sandstone Shrikethrush
+Sarus Crane
+Satin Bowerbird
+Satin Flycatcher
+Scaly-breasted Lorikeet
+Scaly-breasted Munia
+Scarlet Myzomela
+Scarlet Robin
+Scarlet-chested Parrot
+Scrubtit
+Sharp-tailed Sandpiper
+Shining Bronze Cuckoo
+Shining Flycatcher
+Short-tailed Grasswren
+Short-tailed Shearwater
+Shy Albatross
+Shy Heathwren
+Silver Gull
+Silver-backed Butcherbird
+Silver-crowned Friarbird
+Silvereye
+Singing Honeyeater
+Slaty-backed Thornbill
+Slender-billed Thornbill
+Slender-billed White-eye
+Song Thrush
+Sooty Oystercatcher
+Sooty Tern
+Soundscape
+Southern Cassowary
+Southern Emu-wren
+Southern Scrub Robin
+Southern Whiteface
+Spangled Drongo
+Speckled Warbler
+Spectacled Monarch
+Spinifex Pigeon
+Spinifexbird
+Spiny-cheeked Honeyeater
+Splendid Fairywren
+Spotless Crake
+Spotted Bowerbird
+Spotted Catbird
+Spotted Dove
+Spotted Nightjar
+Spotted Pardalote
+Spotted Quail-thrush
+Spotted Scrubwren
+Spotted Whistling Duck
+Square-tailed Kite
+Squatter Pigeon
+Star Finch
+Straw-necked Ibis
+Striated Fieldwren
+Striated Grasswren
+Striated Heron
+Striated Pardalote
+Striated Thornbill
+Striped Honeyeater
+Strong-billed Honeyeater
+Stubble Quail
+Sulphur-crested Cockatoo
+Superb Fairywren
+Superb Fruit Dove
+Superb Lyrebird
+Superb Parrot
+Swamp Harrier
+Swift Parrot
+Swinhoe's Snipe
+Tasmanian Nativehen
+Tasmanian Scrubwren
+Tasmanian Thornbill
+Tawny Frogmouth
+Tawny Grassbird
+Tawny-breasted Honeyeater
+Tawny-crowned Honeyeater
+Thick-billed Grasswren
+Tooth-billed Bowerbird
+Topknot Pigeon
+Torresian Crow
+Torresian Imperial Pigeon
+Torresian Kingfisher
+Tree Martin
+Tropical Scrubwren
+Tropical Shearwater
+Trumpet Manucode
+Turquoise Parrot
+Varied Honeyeater
+Varied Lorikeet
+Varied Sittella
+Varied Triller
+Variegated Fairywren
+Victoria's Riflebird
+Wandering Albatross
+Wandering Whistling Duck
+Wedge-tailed Eagle
+Wedge-tailed Shearwater
+Weebill
+Welcome Swallow
+Western Bowerbird
+Western Bristlebird
+Western Corella
+Western Fieldwren
+Western Gerygone
+Western Grasswren
+Western Quail-thrush
+Western Rosella
+Western Spinebill
+Western Thornbill
+Western Wattlebird
+Western Whistler
+Western Yellow Robin
+Whiskered Tern
+Whistling Kite
+White Tern
+White-backed Swallow
+White-bellied Cuckooshrike
+White-bellied Sea Eagle
+White-bellied Whipbird
+White-breasted Robin
+White-breasted Whistler
+White-breasted Woodswallow
+White-browed Babbler
+White-browed Crake
+White-browed Robin
+White-browed Scrubwren
+White-browed Treecreeper
+White-browed Woodswallow
+White-cheeked Honeyeater
+White-eared Honeyeater
+White-eared Monarch
+White-faced Heron
+White-faced Robin
+White-fronted Chat
+White-fronted Honeyeater
+White-gaped Honeyeater
+White-headed Pigeon
+White-lined Honeyeater
+White-naped Honeyeater
+White-necked Heron
+White-necked Petrel
+White-plumed Honeyeater
+White-quilled Rock Pigeon
+White-streaked Honeyeater
+White-throated Gerygone
+White-throated Grasswren
+White-throated Honeyeater
+White-throated Needletail
+White-throated Nightjar
+White-throated Treecreeper
+White-winged Chough
+White-winged Fairywren
+White-winged Tern
+White-winged Triller
+Willie Wagtail
+Wompoo Fruit Dove
+Wonga Pigeon
+Wood Sandpiper
+Yellow Chat
+Yellow Honeyeater
+Yellow Thornbill
+Yellow Wattlebird
+Yellow-billed Kingfisher
+Yellow-billed Spoonbill
+Yellow-breasted Boatbill
+Yellow-faced Honeyeater
+Yellow-legged Flyrobin
+Yellow-plumed Honeyeater
+Yellow-rumped Mannikin
+Yellow-rumped Thornbill
+Yellow-spotted Honeyeater
+Yellow-tailed Black Cockatoo
+Yellow-throated Honeyeater
+Yellow-throated Miner
+Yellow-throated Scrubwren
+Yellow-tinted Honeyeater
+Yellow-tufted Honeyeater
+Zebra Finch
+Zitting Cisticola

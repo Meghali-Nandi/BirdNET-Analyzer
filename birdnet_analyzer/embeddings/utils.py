@@ -39,6 +39,7 @@ def analyze_file(item, db: sqlite_usearch_impl.SQLiteUsearchDB):
         fileLengthSeconds = int(audio.get_audio_file_length(fpath))
     except Exception as ex:
         # Write error log
+        print("Embedding utils")
         print(f"Error: Cannot analyze audio file {fpath}. File corrupt?\n", flush=True)
         utils.write_error_log(ex)
 
@@ -106,6 +107,7 @@ def analyze_file(item, db: sqlite_usearch_impl.SQLiteUsearchDB):
 
     except Exception as ex:
         # Write error log
+        print("utils.py")
         print(f"Error: Cannot analyze audio file {fpath}.", flush=True)
         utils.write_error_log(ex)
 

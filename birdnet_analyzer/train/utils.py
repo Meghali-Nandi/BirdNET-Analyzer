@@ -246,6 +246,7 @@ def _load_training_data(cache_mode=None, cache_file="", progress_callback=None):
     return x_train, y_train, valid_labels
 
 
+
 def train_model(on_epoch_end=None, on_trial_result=None, on_data_load_end=None, autotune_directory="autotune"):
     """Trains a custom classifier.
 
@@ -262,6 +263,7 @@ def train_model(on_epoch_end=None, on_trial_result=None, on_data_load_end=None, 
     print(f"...Done. Loaded {x_train.shape[0]} training samples and {y_train.shape[1]} labels.", flush=True)
 
     if cfg.AUTOTUNE:
+        print("autotune on")
         import gc
 
         import keras

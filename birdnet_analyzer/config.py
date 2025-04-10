@@ -1,4 +1,6 @@
 import os
+from typing import Union
+
 
 SCRIPT_DIR = os.path.abspath(os.path.dirname(__file__))
 
@@ -16,8 +18,8 @@ RANDOM_SEED: int = 42
 MODEL_VERSION: str = "V2.4"
 PB_MODEL: str = os.path.join(SCRIPT_DIR, "checkpoints/V2.4/BirdNET_GLOBAL_6K_V2.4_Model")
 # MODEL_PATH = PB_MODEL # This will load the protobuf model
-MODEL_PATH: str = os.path.join(SCRIPT_DIR, "checkpoints/V2.4/BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite")
-MDATA_MODEL_PATH: str = os.path.join(SCRIPT_DIR, "checkpoints/V2.4/BirdNET_GLOBAL_6K_V2.4_MData_Model_V2_FP16.tflite")
+MODEL_PATH: str = os.path.join(SCRIPT_DIR, "output_tf/BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite")
+MDATA_MODEL_PATH: str = os.path.join(SCRIPT_DIR, "output_tf/BirdNET_GLOBAL_6K_V2.4_MData_Model_V2_FP16.tflite")
 LABELS_FILE: str = os.path.join(SCRIPT_DIR, "checkpoints/V2.4/BirdNET_GLOBAL_6K_V2.4_Labels.txt")
 TRANSLATED_LABELS_PATH: str = os.path.join(SCRIPT_DIR, "labels/V2.4")
 
@@ -88,7 +90,7 @@ SIGMOID_SENSITIVITY: float = 1.0
 # Minimum confidence score to include in selection table
 # (be aware: if APPLY_SIGMOID = False, this no longer represents
 # probabilities and needs to be adjusted)
-MIN_CONFIDENCE: float = 0.25
+MIN_CONFIDENCE: float = 0.1
 
 # Number of consecutive detections for one species to merge into one
 # If set to 1 or 0, no merging will be done
@@ -113,7 +115,9 @@ USE_NOISE: bool = False
 # Specifies the output format. 'table' denotes a Raven selection table,
 # 'audacity' denotes a TXT file with the same format as Audacity timeline labels
 # 'csv' denotes a generic CSV file with start, end, species and confidence.
-RESULT_TYPES: set[str] | list[str] = {"table"}
+# RESULT_TYPES: set[str] | list[str] = {"table"}
+RESULT_TYPES: Union[set[str], list[str]] = {"csv"}
+
 OUTPUT_RAVEN_FILENAME: str = "BirdNET_SelectionTable.txt"  # this is for combined Raven selection tables only
 # OUTPUT_RTABLE_FILENAME: str = "BirdNET_RTable.csv"
 OUTPUT_KALEIDOSCOPE_FILENAME: str = "BirdNET_Kaleidoscope.csv"
@@ -136,6 +140,7 @@ SAMPLE_CROP_MODE: str = "center"
 
 # List of non-event classes
 NON_EVENT_CLASSES: list[str] = ["noise", "other", "background", "silence"]
+
 
 # Upsampling settings
 UPSAMPLING_RATIO: float = 0.0
@@ -161,10 +166,10 @@ TRAIN_HIDDEN_UNITS: int = 0
 TRAIN_DROPOUT: float = 0.0
 
 # Whether to use mixup for training
-TRAIN_WITH_MIXUP: bool = False
+TRAIN_WITH_MIXUP: bool = True
 
 # Whether to apply label smoothing for training
-TRAIN_WITH_LABEL_SMOOTHING: bool = False
+TRAIN_WITH_LABEL_SMOOTHING: bool = True
 
 # Model output format
 TRAINED_MODEL_OUTPUT_FORMAT: str = "tflite"
@@ -173,18 +178,18 @@ TRAINED_MODEL_OUTPUT_FORMAT: str = "tflite"
 TRAINED_MODEL_SAVE_MODE: str = "replace"
 
 # Cache settings
-TRAIN_CACHE_MODE: str | None = None
+TRAIN_CACHE_MODE = "save"
 TRAIN_CACHE_FILE: str = "train_cache.npz"
 
 # Use automatic Hyperparameter tuning
-AUTOTUNE: bool = False
+AUTOTUNE: bool = True
 
 # How many trials are done for the hyperparameter tuning
 AUTOTUNE_TRIALS: int = 50
 
 # How many executions per trial are done for the hyperparameter tuning
 # Mutliple executions will be averaged, so the evaluation is more consistent
-AUTOTUNE_EXECUTIONS_PER_TRIAL: int = 1
+AUTOTUNE_EXECUTIONS_PER_TRIAL: int = 4
 
 # If a binary classification model is trained.
 # This value will be detected automatically in the training script, if only one class and a non-event class is used.
